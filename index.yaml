@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   python-k3d-demo:
   - apiVersion: v2
+    appVersion: 0.0.10
+    created: "2023-08-08T18:00:35.205888544Z"
+    description: A Helm chart for Kubernetes
+    digest: a7b66ab44cd1a74345d5428e66c52900fec45065d4d40525f632d9c18b381841
+    name: python-k3d-demo
+    type: application
+    urls:
+    - https://github.com/roenyl/python-k3d-demo/releases/download/python-k3d-demo-0.0.10/python-k3d-demo-0.0.10.tgz
+    version: 0.0.10
+  - apiVersion: v2
     appVersion: 0.0.8
     created: "2023-08-01T19:45:33.157201325Z"
     description: A Helm chart for Kubernetes
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/roenyl/python-k3d-demo/releases/download/python-k3d-demo-0.0.8/python-k3d-demo-0.0.8.tgz
     version: 0.0.8
-generated: "2023-08-01T19:45:33.157205825Z"
+generated: "2023-08-08T18:00:35.205895544Z"
